@@ -1,10 +1,3 @@
-Features
+# Next.js 13 Promptopia YT Project
 
-[] Implement Search
-
-- Search by prompt
-- Search by tag
-- Search by username
-
-[] Implement Click on tag
-[] Implement View other profiles
+Next.js 13 Full Stack App using the new App Router and NextAuth. AI prompts sharing created by JavaScript Mastery for YouTube.
